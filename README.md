@@ -1,3 +1,6 @@
 ## Projeto 1
-Durante este primeiro projeto iremos exercitar nossos conhecimentos de HTML e CSS.
-Nosso cliente se chama Games Shop e iremos estar desenvolvendo uma landing page para ele.
+Durante este primeiro projeto exercitei meu conhecimento de HTML e CSS. (Recap)
+Meu cliente se chama **Games Shop** e desenvolvi uma landing page para ele.
+
+
+### [link do site](https://omar-games-shop.vercel.app/)
